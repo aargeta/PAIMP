@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Configurations
+configs/config.json
